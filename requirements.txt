@@ -1,5 +1,6 @@
 ipykernel
 ipython
+virtualenv
 pandas
 numpy
 pypdf
@@ -17,3 +18,7 @@ tf-keras
 openpyxl
 plotly
 pyarrow
+xlrd
+geopandas
+shapely
+geoplot
